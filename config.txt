@@ -1,6 +1,6 @@
 token= NTI4MDY2OTA4OTgxODIxNDUw.XK9LCw.1hXNnOfsgRyeiNbAcE91sxMv1LI
 owner= 434642311591493632 
 prefix= wm 
-game= always and forever together
+Streaming= always and forever together
 stayinchannel=true 
 songinstatus=false 

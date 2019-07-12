@@ -1,5 +1,5 @@
 token= NTI4MDY2OTA4OTgxODIxNDUw.XK9LCw.1hXNnOfsgRyeiNbAcE91sxMv1LI
-owner= 463123232736935937
+owner= 434642311591493632
 prefix= wm 
 game= Always and Forever Together
 stayinchannel=true 

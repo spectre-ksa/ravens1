@@ -1,4 +1,4 @@
-token= NTI4MDY2OTA4OTgxODIxNDUw.XK9LCw.1hXNnOfsgRyeiNbAcE91sxMv1LI
+token= NTI4MDY2OTA4OTgxODIxNDUw.XUL8Lw.dGLARxzxSHVWge1gJNpVIWmjG8s
 owner= 463123232736935937
 prefix= wm 
 game= Always and Forever Together

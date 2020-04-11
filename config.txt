@@ -1,6 +1,6 @@
 token= 
 owner= 485936989749772309
-prefix= r 
-game= listening to Rhelp / ravens is the best!
+prefix=  
+game= listening to help / ravens is the best
 stayinchannel=true 
 songinstatus=false 

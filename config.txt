@@ -1,6 +1,6 @@
-token= NTI4MDY2OTA4OTgxODIxNDUw.XnhTzQ.5ytPAf_mncRPIsnJ4QWhzPkRMOY
+token= Njk4MzkzMjg2MTU0NjQ5NjEw.XpFN8Q.H7RZHD5w0bRVEjNCI0klS7CWubY
 owner= 434642311591493632
-prefix= wm 
-game= Always and Forever Together
+prefix= r 
+game= listening to Rhelp / ravens is the best!
 stayinchannel=true 
 songinstatus=false 

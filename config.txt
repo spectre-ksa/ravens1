@@ -1,4 +1,4 @@
-token= NzA4MTQzMjc3MTE5MTExMjAx.XrW3nw.9Z9n8apyNvyWWCoQwjG9fToPtX0
+token= 
 owner= 703835896449073264
 prefix= Ra
 game= listening to
